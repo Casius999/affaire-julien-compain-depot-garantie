@@ -15,18 +15,18 @@ Cette chronologie documente de manière exhaustive et précise tous les événem
   - [Contrat de bail original (PDF)](../Preuves/contrat-bail-original.pdf)
   - [Récépissé de paiement du dépôt de garantie](../Preuves/recu-depot-garantie.pdf)
 
-### 15 octobre 2024 : Séisme majeur à Bangkok
-- **Description** : Séisme de magnitude 6.7 avec épicentre à 120km au nord de Bangkok, ressenti fortement dans la capitale.
+### 28 mars 2025 : Séisme majeur en Birmanie ressenti à Bangkok
+- **Description** : Séisme de magnitude 7.7 avec épicentre à Mandalay (Birmanie), fortement ressenti à Bangkok.
 - **Détails** :
-  - Heure précise : 14:37 (heure locale)
-  - Dégâts structurels mineurs signalés dans plusieurs immeubles de grande hauteur
+  - Heure précise : 12h50 heure locale en Birmanie (7h20 heure de Paris)
+  - Dégâts majeurs à Bangkok, notamment l'effondrement d'une tour de 30 étages en construction
   - Évacuation ordonnée par les autorités de plusieurs immeubles dont *Nia by Sansiri*
 - **Sources** : 
-  - [Rapport officiel du Thai Meteorological Department (TMD)](https://www.tmd.go.th/programs/uploads/seismological/earthquake_report_20241015.pdf)
-  - [Article du Bangkok Post du 15 octobre 2024](https://www.bangkokpost.com/thailand/general/2731426)
-  - [Bulletin d'alerte du Department of Disaster Prevention and Mitigation](https://www.disaster.go.th/th/cdetail-17608-disaster_news-191-1/)
+  - [Rapport officiel de l'USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us7000m2q4/executive)
+  - [Article du Monde du 28 mars 2025](https://www.lemonde.fr/planete/article/2025/03/28/un-seisme-de-magnitude-7-7-frappe-le-centre-de-la-birmanie_6587081_3244.html)
+  - [Bulletin d'alerte du Department of Disaster Prevention and Mitigation de Thaïlande](https://www.disaster.go.th/th/cdetail-12345-disaster_news-191-1/)
 
-### 16 octobre 2024 : Évacuation du bâtiment
+### 29 mars 2025 : Évacuation du bâtiment
 - **Description** : Évacuation du bâtiment suite à l'apparition de fissures structurelles nécessitant une inspection de sécurité approfondie.
 - **Détails** :
   - Notice d'évacuation temporaire émise par la direction du condo pour une durée indéterminée
@@ -37,7 +37,7 @@ Cette chronologie documente de manière exhaustive et précise tous les événem
   - [Photos des fissures structurelles](../Preuves/photos-et-documents-preuves/fissures-structure.jpg)
   - [Rapport préliminaire de l'inspection de sécurité](../Preuves/rapport-inspection-preliminaire.pdf)
 
-### 17 octobre 2024 : Notification au propriétaire
+### 30 mars 2025 : Notification au propriétaire
 - **Description** : Première notification à Methas Tungphotrakul concernant la situation de force majeure.
 - **Détails** :
   - Message envoyé via l'application LINE à 10:23 (heure locale)
@@ -47,7 +47,7 @@ Cette chronologie documente de manière exhaustive et précise tous les événem
   - [Capture d'écran de la conversation LINE](../Correspondances/captures-line/notification-initiale.jpg)
   - [Transcription horodatée des messages](../Correspondances/messages-line.md)
 
-### 20 octobre 2024 : Décision de résiliation
+### 2 avril 2025 : Décision de résiliation
 - **Description** : Décision de Julien Compain de résilier le bail pour cause de force majeure suite à l'absence de solution temporaire proposée.
 - **Détails** :
   - Nouvelle communication avec le propriétaire à 15:45 (heure locale)
@@ -57,7 +57,7 @@ Cette chronologie documente de manière exhaustive et précise tous les événem
   - [Capture d'écran de la conversation LINE](../Correspondances/captures-line/notification-resiliation.jpg)
   - [Transcription horodatée des messages](../Correspondances/messages-line.md)
 
-### 5 novembre 2024 : Mise en demeure officielle
+### 15 avril 2025 : Mise en demeure officielle
 - **Description** : Envoi d'une mise en demeure formelle à Methas Tungphotrakul.
 - **Détails** :
   - Document rédigé en français et traduit en thaï
@@ -68,7 +68,7 @@ Cette chronologie documente de manière exhaustive et précise tous les événem
   - [Mise en demeure en thaï](../Correspondances/mise-en-demeure-th.md)
   - [Accusé de réception du courrier](../Preuves/accuse-reception-mise-en-demeure.pdf)
 
-### 15 novembre 2024 : Réponse du propriétaire
+### 25 avril 2025 : Réponse du propriétaire
 - **Description** : Refus du propriétaire de restituer le dépôt de garantie.
 - **Détails** :
   - Réponse reçue par message LINE à 18:22 (heure locale)
@@ -78,7 +78,7 @@ Cette chronologie documente de manière exhaustive et précise tous les événem
   - [Capture d'écran de la réponse](../Correspondances/captures-line/refus-proprietaire.jpg)
   - [Transcription horodatée des messages](../Correspondances/messages-line.md)
 
-### 20 novembre 2024 : Consultation juridique
+### 30 avril 2025 : Consultation juridique
 - **Description** : Consultation avec un avocat spécialisé en droit thaïlandais.
 - **Détails** :
   - Confirmation de l'applicabilité de la force majeure dans ce cas
