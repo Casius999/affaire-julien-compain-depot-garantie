@@ -1,6 +1,6 @@
 # Mise en demeure - Version française
 
-*Document envoyé par courrier recommandé avec accusé de réception le 5 novembre 2024*
+*Document envoyé par courrier recommandé avec accusé de réception le 15 avril 2025*
 
 ---
 
@@ -18,7 +18,7 @@ Thaïlande
 
 **Objet : Mise en demeure - Restitution de dépôt de garantie**
 
-Bangkok, le 5 novembre 2024
+Bangkok, le 15 avril 2025
 
 **LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION**
 
@@ -30,13 +30,13 @@ Je soussigné, Julien Compain, vous adresse la présente mise en demeure concern
 
 1. Le 10 septembre 2024, nous avons conclu un contrat de bail pour l'appartement susmentionné, pour lequel j'ai versé un dépôt de garantie de 24 000 bahts.
 
-2. Le 15 octobre 2024, un séisme de magnitude 6.7 a frappé la région de Bangkok, entraînant des dommages structurels à de nombreux bâtiments, dont le Nia by Sansiri.
+2. Le 28 mars 2025, un séisme de magnitude 7.7 a frappé la région de Mandalay en Birmanie, avec des impacts majeurs ressentis à Bangkok, entraînant des dommages structurels à de nombreux bâtiments, dont le Nia by Sansiri.
 
-3. Le 16 octobre 2024, une évacuation obligatoire du bâtiment a été ordonnée par les autorités et la direction de la copropriété pour des raisons de sécurité, avec une interdiction d'accès pendant une durée indéterminée.
+3. Le 29 mars 2025, une évacuation obligatoire du bâtiment a été ordonnée par les autorités et la direction de la copropriété pour des raisons de sécurité, avec une interdiction d'accès pendant une durée indéterminée.
 
-4. Le 17 octobre 2024, je vous ai informé de cette situation par message via l'application LINE, vous demandant des précisions sur la marche à suivre.
+4. Le 30 mars 2025, je vous ai informé de cette situation par message via l'application LINE, vous demandant des précisions sur la marche à suivre.
 
-5. Sans solution temporaire proposée et face à l'impossibilité d'occuper le logement, je vous ai notifié le 20 octobre 2024 ma décision de résilier le bail pour cas de force majeure, conformément à la clause explicite figurant à la page 8 du contrat.
+5. Sans solution temporaire proposée et face à l'impossibilité d'occuper le logement, je vous ai notifié le 2 avril 2025 ma décision de résilier le bail pour cas de force majeure, conformément à la clause explicite figurant à la page 8 du contrat.
 
 6. Depuis cette notification, et malgré plusieurs relances de ma part, vous n'avez pas procédé à la restitution du dépôt de garantie.
 
@@ -56,7 +56,7 @@ Par conséquent, je vous mets formellement en demeure de :
 
 1. Procéder à la restitution intégrale de mon dépôt de garantie d'un montant de 24 000 (vingt-quatre mille) bahts thaïlandais.
 
-2. Effectuer ce paiement dans un délai de 15 (quinze) jours à compter de la réception de la présente, soit au plus tard le 20 novembre 2024.
+2. Effectuer ce paiement dans un délai de 15 (quinze) jours à compter de la réception de la présente, soit au plus tard le 30 avril 2025.
 
 3. Réaliser ce versement par virement bancaire sur mon compte dont les coordonnées vous sont connues ou par tout autre moyen de paiement à votre convenance.
 
@@ -85,6 +85,6 @@ Julien Compain
 **Pièces jointes :**
 1. Copie du contrat de bail du 10 septembre 2024
 2. Récépissé de paiement du dépôt de garantie
-3. Rapport officiel du séisme du Thai Meteorological Department
+3. Rapport officiel du séisme de l'USGS
 4. Notice d'évacuation de la direction du Nia by Sansiri
-5. Captures d'écran des échanges LINE du 17 et 20 octobre 2024
+5. Captures d'écran des échanges LINE du 30 mars et 2 avril 2025
