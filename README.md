@@ -4,7 +4,7 @@ Ce dépôt documente l'intégralité de l'affaire concernant la restitution d'un
 
 ## Contexte
 
-Julien Compain a signé un bail le 10 septembre 2024 pour un appartement situé au *Nia by Sansiri, Room 89/186, Floor 11* à Bangkok, Thaïlande. Suite à un séisme majeur, considéré comme cas de force majeure, il a dû quitter précipitamment le logement. Cette situation exceptionnelle justifie la restitution intégrale du dépôt de garantie de 24 000 baht selon les principes juridiques de force majeure applicables en droit thaïlandais.
+Julien Compain a signé un bail le 10 septembre 2024 pour un appartement situé au *Nia by Sansiri, Room 89/186, Floor 11* à Bangkok, Thaïlande. Suite à un séisme majeur le 28 mars 2025, considéré comme cas de force majeure, il a dû quitter précipitamment le logement. Cette situation exceptionnelle justifie la restitution intégrale du dépôt de garantie de 24 000 baht selon les principes juridiques de force majeure applicables en droit thaïlandais.
 
 ## Objectif du dépôt
 
