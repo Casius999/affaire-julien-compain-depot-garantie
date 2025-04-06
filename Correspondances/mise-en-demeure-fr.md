@@ -1,6 +1,6 @@
-# Mise en demeure - Version française
+# Projet de mise en demeure - Version française
 
-*Document envoyé par courrier recommandé avec accusé de réception le 15 avril 2025*
+*Document en préparation - PAS ENCORE ENVOYÉ*
 
 ---
 
@@ -18,7 +18,7 @@ Thaïlande
 
 **Objet : Mise en demeure - Restitution de dépôt de garantie**
 
-Bangkok, le 15 avril 2025
+Bangkok, le [DATE D'ENVOI À DÉTERMINER]
 
 **LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION**
 
@@ -56,7 +56,7 @@ Par conséquent, je vous mets formellement en demeure de :
 
 1. Procéder à la restitution intégrale de mon dépôt de garantie d'un montant de 24 000 (vingt-quatre mille) bahts thaïlandais.
 
-2. Effectuer ce paiement dans un délai de 15 (quinze) jours à compter de la réception de la présente, soit au plus tard le 30 avril 2025.
+2. Effectuer ce paiement dans un délai de 15 (quinze) jours à compter de la réception de la présente.
 
 3. Réaliser ce versement par virement bancaire sur mon compte dont les coordonnées vous sont connues ou par tout autre moyen de paiement à votre convenance.
 
@@ -82,7 +82,7 @@ Julien Compain
 
 ---
 
-**Pièces jointes :**
+**Pièces jointes qui seront annexées :**
 1. Copie du contrat de bail du 10 septembre 2024
 2. Récépissé de paiement du dépôt de garantie
 3. Rapport officiel du séisme de l'USGS
