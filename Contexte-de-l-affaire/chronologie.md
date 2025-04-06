@@ -57,40 +57,25 @@ Cette chronologie documente de manière exhaustive et précise tous les événem
   - [Capture d'écran de la conversation LINE](../Correspondances/captures-line/notification-resiliation.jpg)
   - [Transcription horodatée des messages](../Correspondances/messages-line.md)
 
-### 15 avril 2025 : Mise en demeure officielle
-- **Description** : Envoi d'une mise en demeure formelle à Methas Tungphotrakul.
+### 6 avril 2025 : Préparation de la mise en demeure
+- **Description** : Rédaction de la mise en demeure formelle destinée à Methas Tungphotrakul.
 - **Détails** :
   - Document rédigé en français et traduit en thaï
-  - Envoi par courrier recommandé avec accusé de réception à l'adresse : Nia by Sansiri, Room No. 89/186, Floor 11, 855/1, Moo 7, Chang Klang Subdistrict, Chang Klang District, Nakhon Si Thammarat, Thaïlande
-  - Délai de 15 jours accordé pour la restitution du dépôt
+  - Planification de l'envoi par courrier recommandé avec accusé de réception
+  - En cours de finalisation, pas encore envoyée
 - **Sources** : 
-  - [Mise en demeure en français](../Correspondances/mise-en-demeure-fr.md)
-  - [Mise en demeure en thaï](../Correspondances/mise-en-demeure-th.md)
-  - [Accusé de réception du courrier](../Preuves/accuse-reception-mise-en-demeure.pdf)
+  - [Projet de mise en demeure en français](../Correspondances/mise-en-demeure-fr.md)
+  - [Projet de mise en demeure en thaï](../Correspondances/mise-en-demeure-th.md)
 
-### 25 avril 2025 : Réponse du propriétaire
-- **Description** : Refus du propriétaire de restituer le dépôt de garantie.
-- **Détails** :
-  - Réponse reçue par message LINE à 18:22 (heure locale)
-  - Invocation de la clause de préavis de 30 jours et refus de considérer le cas de force majeure
-  - Proposition de conservation de 12 000 baht (50% du dépôt)
-- **Sources** : 
-  - [Capture d'écran de la réponse](../Correspondances/captures-line/refus-proprietaire.jpg)
-  - [Transcription horodatée des messages](../Correspondances/messages-line.md)
+## Prochaines étapes planifiées
 
-### 30 avril 2025 : Consultation juridique
-- **Description** : Consultation avec un avocat spécialisé en droit thaïlandais.
-- **Détails** :
-  - Confirmation de l'applicabilité de la force majeure dans ce cas
-  - Recommandation de poursuivre la demande de restitution intégrale
-  - Stratégie juridique proposée
-- **Sources** : 
-  - [Résumé de la consultation juridique](../Actions-et-suivi/consultation-juridique.md)
-  - [Avis juridique écrit (anonymisé)](../Arguments-juridiques/avis-juridique-expert.pdf)
+- Envoi de la mise en demeure officielle
+- Suivi des réponses du propriétaire
+- Consultation juridique (si nécessaire)
 
 ## Situation actuelle
 
-La situation reste en cours de résolution. Le dernier statut à jour au 6 avril 2025 indique que le différend n'est pas encore réglé et que des actions supplémentaires sont envisagées. Voir la section [Actions et Suivi](../Actions-et-suivi/strategie.md) pour les dernières mises à jour et les prochaines étapes planifiées.
+La situation reste en cours de résolution. À ce jour (6 avril 2025), la mise en demeure est en préparation mais n'a pas encore été envoyée. Le différend n'est pas encore réglé et des actions supplémentaires sont envisagées. Voir la section [Actions et Suivi](../Actions-et-suivi/strategie.md) pour les dernières mises à jour et les prochaines étapes planifiées.
 
 ---
 
